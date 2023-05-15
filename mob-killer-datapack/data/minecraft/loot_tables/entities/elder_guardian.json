@@ -1,0 +1,59 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": {
+                "min": 0,
+                "max": 2
+            },
+            "bonus_rolls":0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:prismarine_shard"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:sponge"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:air",
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:prismarine_crystals",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 28
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:heart_of_the_sea",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:nautilus_shell",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
