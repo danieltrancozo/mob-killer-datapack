@@ -39,7 +39,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:zombie_head",
+                    "name": "minecraft:sand",
                     "weight": 1
                 }
             ]

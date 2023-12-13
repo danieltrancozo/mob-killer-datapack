@@ -20,26 +20,26 @@
             "entries": [
                 {
                     "type": "minecraft:empty",
-                    "weight": 36
+                    "weight": 73
                 },
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:carrot",
-                    "weight": 1
+                    "weight": 2
                 },
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:potato",
-                    "weight": 1
+                    "weight": 2
                 },
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:iron_ingot",
-                    "weight": 1
+                    "weight": 2
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:zombie_head",
+                    "name": "minecraft:diamond",
                     "weight": 1
                 }
             ]
